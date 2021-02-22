@@ -1,0 +1,54 @@
+#size{
+ margin-left: 1100px;
+margin-top: -700px;
+}
+ 
+#code{
+    width: 600px;
+}
+.coder{
+    background-color: rgba(42, 42, 42, 1);
+    color: white;
+    font-size: large;
+}
+.material-icons{
+    color: whitesmoke;
+}
+.run{
+    background-color: green;
+    border: none;
+    color: white;
+    /* margin-left: 20%; */
+    border-radius: 5px;
+    transition: 0.5s;
+}
+
+.run:hover{
+    background-color: white;
+    color: green;
+    transition: 0.5s;
+}
+
+#runner{
+    color: white;
+    background-color: green;
+    transition: 0.5s;
+    border: none;
+    border-radius: 5px;
+    height: 50px;
+}
+
+#runner:hover{
+    color:grey;
+    background-color: white;
+    transition: 0.5s;
+}
+
+#sign{
+    transition: all 0.5s;
+    border: none;
+    border-radius: 5px;
+    height: 100%;
+    margin-left: 10px;
+}
+

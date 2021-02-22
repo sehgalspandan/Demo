@@ -1,0 +1,27 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family:ff-prater-block-web, sans-serif;
+font-style: normal;
+font-weight: 400;
+background:linear-gradient(rgb(47,150,163), rgb(48,62,143));
+height: 100vh;
+justify-content: center;
+align-items: center;
+display: flex;
+
+    }
+    .form{
+        width:500px;
+        border: solid red;
+        height: 500px;
+    }
+    .inputs{
+        margin-top: 189px;
+        margin-left: 140px;
+    }
+   
